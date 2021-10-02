@@ -12,3 +12,10 @@ console.log(isFemale);
 console.log(dob) 
 console.log(person)
 console.log(empty) 
+console.log("**********") 
+console.log(typeof firstName);
+console.log(typeof age);
+console.log(typeof isFemale); 
+console.log(typeof dob) 
+console.log(typeof person)
+console.log(typeof empty) 
